@@ -33,7 +33,7 @@ Installation ->
 Clone the repository:
 
 Copy code
-git clone https://github.com/UNCLE101010?tab=repositories
+git clone https://github.com/UNCLE101010/PathFinder
 Install dependencies:
 
 Copy code
